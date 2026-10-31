@@ -69,7 +69,7 @@
       const assignment = JSON.parse(new TextDecoder().decode(plain));
       if (assignment.version !== 1 || typeof assignment.giver !== 'string' || typeof assignment.recipient !== 'string') throw new Error('Ungültiges Los');
       status.textContent = '';
-      showText('greeting', `Hallo ${assignment.giver}! ✨`);
+      showText('greeting', `Für dich, ${assignment.giver}`);
       $('ready').classList.remove('hidden');
       $('reveal-btn').addEventListener('click', () => {
         $('reveal-btn').classList.add('hidden');
