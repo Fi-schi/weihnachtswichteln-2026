@@ -6,48 +6,58 @@
   <meta name="robots" content="noindex, nofollow, noarchive">
   <meta name="referrer" content="no-referrer">
   <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; connect-src 'self'; img-src 'self' data:; base-uri 'none'; form-action 'none'; object-src 'none'; upgrade-insecure-requests">
-  <meta name="theme-color" content="#632935">
+  <meta name="theme-color" content="#3d1926">
   <title>Weihnachtswichteln · Dein geheimes Los</title>
-  <link rel="stylesheet" href="styles.css">
-  <script src="app.js" defer></script>
+  <link rel="stylesheet" href="styles.css?v=20261031-bordeaux-v4">
+  <script src="app.js?v=20261031-bordeaux-v4" defer></script>
 </head>
 <body>
+  <div class="ambient ambient-1" aria-hidden="true"></div>
+  <div class="ambient ambient-2" aria-hidden="true"></div>
   <main class="page">
-    <header class="brand">UNSER WICHTELABEND</header>
+    <header class="brand"><span class="brand-star" aria-hidden="true">✧</span> UNSER WEIHNACHTSWICHTELN <span class="brand-star" aria-hidden="true">✧</span></header>
 
     <article class="card">
-      <div class="ornament ornament-left" aria-hidden="true"></div>
-      <div class="ornament ornament-right" aria-hidden="true"></div>
-
-      <p class="eyebrow">ELEGANT · FESTLICH · PERSÖNLICH</p>
+      <div class="corner corner-tl" aria-hidden="true"></div>
+      <div class="corner corner-tr" aria-hidden="true"></div>
+      <div class="corner corner-bl" aria-hidden="true"></div>
+      <div class="corner corner-br" aria-hidden="true"></div>
+      <div class="crest" aria-hidden="true">
+        <svg viewBox="0 0 100 100" width="86" height="86" role="presentation" focusable="false">
+          <circle cx="50" cy="50" r="44" fill="none" stroke="currentColor" opacity=".35" stroke-width=".8" />
+          <circle cx="50" cy="50" r="39" fill="none" stroke="currentColor" opacity=".24" stroke-width=".6" />
+          <path d="M50 24V70M50 42c-13-1-20-9-22-18 13 1 20 8 22 18ZM50 53c14-1 21-9 24-20-14 2-22 9-24 20ZM50 62c-11 0-18-6-22-14 11 0 19 6 22 14ZM50 70c10-2 16-7 20-15-11 1-17 7-20 15Z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" />
+          <path d="M43 74h14" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+          <path d="M50 14v6M47 17h6" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" />
+        </svg>
+      </div>
+      <p class="eyebrow">EIN KLEINES GEHEIMNIS NUR FÜR DICH</p>
       <h1 id="event-title">Weihnachtswichteln 2026</h1>
-      <p class="intro">Ein besonderer Abend voller kleiner Überraschungen, liebevoller Gesten und geheimer Wichtelmomente.</p>
-
-      <div class="divider" aria-hidden="true"><span>✦</span></div>
-
-      <blockquote class="quote">„Die Freude liegt im Schenken.“</blockquote>
+      <p class="intro">Ein Geschenk. Eine Überraschung. Ein besonderer Moment, der in Erinnerung bleibt.</p>
+      <div class="rule" aria-hidden="true"><span>✧</span></div>
+      <p class="quote">Die Freude liegt im Schenken.</p>
 
       <div id="status" class="status" role="status" aria-live="polite">Dein persönliches Los wird vorbereitet …</div>
 
       <section id="ready" class="hidden" aria-label="Dein persönliches Wichtellos">
         <p class="greeting" id="greeting"></p>
-        <p class="hint">Bist du bereit zu erfahren, wen du in diesem Jahr beschenkst?</p>
-        <button type="button" id="reveal-btn" class="primary">WICHTELPARTNER ENTHÜLLEN</button>
+        <p class="hint">Bist du bereit zu erfahren, wen du dieses Jahr beschenkst?</p>
+        <button type="button" id="reveal-btn" class="primary">MEIN WICHTELLOS ÖFFNEN <span aria-hidden="true">✦</span></button>
         <div id="answer" class="answer hidden" aria-live="polite">
-          <p class="answer-caption">DU BESCHENKST</p>
+          <p class="answer-caption">DU BESCHENKST DIESES JAHR</p>
           <p id="recipient" class="recipient"></p>
-          <p class="secret-label">Bitte behalte dein Los für dich.</p>
+          <p class="secret-label">Pssst … dieses Geheimnis ist nur für dich.</p>
         </div>
       </section>
 
       <div id="details" class="details hidden">
         <div id="budget-row" class="detail hidden"><span>Geschenkbudget</span><strong id="budget"></strong></div>
-        <div id="date-row" class="detail hidden"><span>Datum der Feier</span><strong id="date"></strong></div>
+        <div id="date-row" class="detail hidden"><span>Weihnachtsfeier</span><strong id="date"></strong></div>
         <p id="note" class="note hidden"></p>
       </div>
     </article>
 
-    <footer>Mit Liebe vorbereitet · Nur für die Teilnehmenden bestimmt</footer>
+    <footer>MIT LIEBE VORBEREITET <span aria-hidden="true">·</span> NUR FÜR DIE TEILNEHMENDEN</footer>
   </main>
 </body>
 </html>

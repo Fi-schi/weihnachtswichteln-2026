@@ -2,70 +2,9 @@
   "schemaVersion": 1,
   "event": {
     "title": "Weihnachtswichteln 2026",
-    "budget": "20€",
-    "date": "2026-12-05",
+    "budget": "",
+    "date": "",
     "note": ""
   },
-  "assignments": [
-    {
-      "id": "OAB8fo69lMG-20jl6DF5yg",
-      "iv": "BrSHI9R-p5nk5a4n",
-      "payload": "TE-cg2Hy5E4ZjUJ27oczWcvEGpy4R_qT1Gt25wls4b96aOL4ePREBTJ25GBPO0wfykd_YSMOXEeB1PHgL4Y"
-    },
-    {
-      "id": "pWT-slTrsEjOYEwpWVRphg",
-      "iv": "9-BN1sh9F070CeZ4",
-      "payload": "RPSEb-zaeuGFDR_epWYgYeyKgmwfzcwCWoFr-eNUSanW96XtBoo8-zHdsyqdm_KJEkuh-rJfmkTZ7E1j0v-M"
-    },
-    {
-      "id": "n7N4TpxrMlcRnjUSgFyh0g",
-      "iv": "vpFprjCk1kOsROsS",
-      "payload": "kQtiAZ6y4D3fikGFxu50fxFin1PEyHkSVCG6seZ9IMhPktU2OdWBoa_DFvm_OG1b3eVQQ_iYFEEDiGgZxzRrnGs"
-    },
-    {
-      "id": "__Y-KibTzJKmTzEgqNEGfg",
-      "iv": "lf9WDO9QeC_hCf9H",
-      "payload": "mtwCIg1rUBBtCeKW9FLqiqwgU_jGEQXOrXApSpDmtHhzgs90Cq20c09h20crNunZajjxK8sXeH4HRleJz7sa8A"
-    },
-    {
-      "id": "VUMmP1x5TEsrB2aQKxwX8w",
-      "iv": "PIkgOZDt3KkbrHiz",
-      "payload": "ixW4QKQc0m5Usxs9wcwKsdOkGHVOKCs4dDBHlg8JJkvCtc0MPIDe5iDUAl_ZGE6TwW7IrC2cgAFY__9oEkVa"
-    },
-    {
-      "id": "W-UAT7KNXrqUHdU8nozeuw",
-      "iv": "zWb4IF2abBUQMMMM",
-      "payload": "o7s73lIXcvOPsRQR6TG34Wa75Y4OUfnufOadaTNcl6tjO2d7-W5e1txGCImODAIz8Xpcup8j1rpkuNH4U8baYCU"
-    },
-    {
-      "id": "guHJKt1_6Q-1d7WvjyhqYg",
-      "iv": "cceXnRijOMMOr_vk",
-      "payload": "qQRLcRD7PAleR_RE7HOGLS9gHOt-ExCz8nG4mqJ0VYRSR8sA6xgBGQQ3L7bCiEJ-0mwOz3n2QUlTBtKQXhzDjbdf"
-    },
-    {
-      "id": "bf4FK5YQ_-6i8GznNYmNUQ",
-      "iv": "O-Lg42uGVjJN04RH",
-      "payload": "pC1IyVbmG2zNuTsnS0Mf7waXGS2VtnQIidSYnx4n-FssY9GujT1NI4MfshcGmZWCZzGT2avZCYI-JK6Ml5egRUXW"
-    },
-    {
-      "id": "w-Up6QQKSoEOu2ht_aB90w",
-      "iv": "6NudKv-Wjmlc1SPn",
-      "payload": "9nEIEYtRtNU3nzJcsc-SG-DSHUlcpQXGZnpivSPAJWt8_4Wwx80GtXfdsYssTquogf2HRGBUIhzr0rADVefh"
-    },
-    {
-      "id": "6hMwyuZqS3jVRe92rLQ3iw",
-      "iv": "zyyvuBEb4OB1KFZc",
-      "payload": "92yKQ4KuRypiBzvE2p9yQViwP3XIAnT95nx3O-1Y3sCPps9hy1yjYc4KvHP2r5VevgC-BWniHZnUTu86_gUKrg"
-    },
-    {
-      "id": "5JmD9y0i-hfRk0qWvJM20w",
-      "iv": "defkkV4WoyP4Hdoy",
-      "payload": "1gz0rkhzfxEWzmhDN2-EM7hoee2E4NnpuFeqWJv4422aT0tYdof0GTMa47S3bORjhttWn8JYV24uNDXJ6bIWTA"
-    },
-    {
-      "id": "4dHI-8Mgt-hr-BTtqHPqGg",
-      "iv": "1aynu4QvZ1G-g53n",
-      "payload": "iVH96Y1NTevYuniSdo-ZGO8P8uerkY8_lvtcHmwAE87W3URk8NUOK0ihU5yTfbGeP35VomUO_3eWuPmpj6Gv"
-    }
-  ]
+  "assignments": []
 }
