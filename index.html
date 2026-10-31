@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; connect-src 'self'; img-src 'self' data:; base-uri 'none'; form-action 'none'; object-src 'none'; upgrade-insecure-requests">
+  <meta name="theme-color" content="#123f35">
+  <title>Weihnachtswichteln · Dein geheimes Los</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <div class="snow" aria-hidden="true"><span>✳</span><span>✦</span><span>✳</span><span>✧</span><span>✦</span><span>✳</span><span>✧</span><span>✦</span><span>✳</span></div>
+  <main class="page">
+    <header class="brand"><span aria-hidden="true">✧</span> UNSER WEIHNACHTSWICHTELN <span aria-hidden="true">✧</span></header>
+    <article class="card">
+      <div class="stamp" aria-hidden="true">✦</div>
+      <div class="gift-icon" aria-hidden="true">🎁</div>
+      <p class="eyebrow">Ein kleines Geheimnis wartet auf dich</p>
+      <h1 id="event-title">Weihnachtswichteln 2026</h1>
+      <p class="intro">Ein Geschenk. Eine Überraschung. Ein bisschen Weihnachtszauber.</p>
+      <div class="rule" aria-hidden="true"><span>✧</span></div>
+      <div id="status" class="status" role="status" aria-live="polite">Dein geheimes Los wird vorbereitet …</div>
+      <section id="ready" class="hidden" aria-label="Dein persönliches Wichtellos">
+        <p class="greeting" id="greeting"></p>
+        <p class="hint">Bist du bereit zu erfahren, wen du dieses Jahr beschenkst?</p>
+        <button type="button" id="reveal-btn" class="primary">🎄 Wichtelpartner enthüllen</button>
+        <div id="answer" class="answer hidden" aria-live="polite">
+          <p class="answer-caption">Du beschenkst dieses Jahr</p>
+          <p id="recipient" class="recipient"></p>
+          <p class="secret-label">Pssst … verrate dein Los nicht! 🤫</p>
+        </div>
+      </section>
+      <div id="details" class="details hidden">
+        <div id="budget-row" class="detail hidden"><span>🎀 Geschenkbudget</span><strong id="budget"></strong></div>
+        <div id="date-row" class="detail hidden"><span>📅 Weihnachtsfeier</span><strong id="date"></strong></div>
+        <p id="note" class="note hidden"></p>
+      </div>
+    </article>
+    <footer>Mit Liebe vorbereitet · Nur für die Teilnehmenden bestimmt</footer>
+  </main>
+</body>
+</html>
