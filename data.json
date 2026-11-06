@@ -3,8 +3,64 @@
   "event": {
     "title": "Weihnachtswichteln 2026",
     "budget": "",
-    "date": "",
+    "date": "2026-12-05",
     "note": ""
   },
-  "assignments": []
+  "assignments": [
+    {
+      "id": "AiKBTp4UX8QS7zEwuRGa2A",
+      "iv": "QpUwB0iOr9VBxFbK",
+      "payload": "fMJ6EsA-KyvIis_V9VSgX1deGMyMKc1et7Q-0jejdolXgDcawRpo84h1bKELXJ0vArXYF3F65gZbKr0jWmiqOYg"
+    },
+    {
+      "id": "M-GeMxA7-UcSmHCgrEyFVQ",
+      "iv": "Jxat2GnW9miazU0_",
+      "payload": "clwgPTcPHjc16-IbVeaZhYo-ZQTHYpXxLRu-OD-gHR9UCiESvR4zgbH_JNvnS-XdOIbGiqoVTptf3KsZ2vc5eOQPsH8S_zU"
+    },
+    {
+      "id": "HuLvvd-AgcV61Nnhd20gyg",
+      "iv": "L349W4pXGLPrg9a0",
+      "payload": "Euot0HkRWHEjLZBVsvRKqRcC0XlUWXd4w38M3j_FSFPa8K-1GZzLdPhLzQc6r-GPabjSWCvOby9VK3iUYPVz"
+    },
+    {
+      "id": "impMx6JkTXRa8fTtzP4D6w",
+      "iv": "SXS7H6GtSR-tz3kt",
+      "payload": "KdFIjV9qtnVk6dNeK6ueuly4ULK2VNHje2BP_DxRWkKJ2i-i3VYAZVhWyI1nsR3jOMGx8AvGbJPvgDOXDmPcNdw"
+    },
+    {
+      "id": "9PjfOsS9lB0hb62wFXhIvQ",
+      "iv": "qAeDAHKGo3LcIy0V",
+      "payload": "agu-Ap8PA0oIHlneJ-umUmC6oxKv86Yt2XaEeFgmFP3bIjVy-gGH--Midw7PTziYvZMObfrEgGJjlu8B4EUef-0"
+    },
+    {
+      "id": "wrHu-gDnIeQamBaXVL3OLQ",
+      "iv": "jxusReH0XhWJza8U",
+      "payload": "0-5DEwQl3I4O4eIbZykxvy-tGrMaK3rxxAy70ZHaEsR4OLR0o1p1c86OdvFYLvyC-foMyOCHgaUGXtUg8ssq2Frdu2g"
+    },
+    {
+      "id": "i2sNcJ8EsMgtRFfFUwcGiQ",
+      "iv": "wsNnSBDjMwWr-9Nb",
+      "payload": "B5_J_1MolM3V8tgn7JavykFkzndXmKq3Ocfacm4lYWpr8T1uTpvaTgx0d2anM90EJsnD_Gbj-s5n-x2mQKF2n0zrLw"
+    },
+    {
+      "id": "Zw-seN9pFF8oWPEoAPoa1Q",
+      "iv": "WoaqJyVV5f8wgJ2B",
+      "payload": "ZrwnHHnEcyi-SqTiOvUUoHYeouVjchfPAgvkW9WmJWV_ZgjDfT3YGPm47DAM7RD-5YnGq87dvwCMEZQxGLCWCaz6VAI"
+    },
+    {
+      "id": "blq5cBuVaD2qwzHp9EwyGA",
+      "iv": "TIvcH1Xo8i5DGsAp",
+      "payload": "-uDRrqqZh3s71OgT-lVg0Ud9XjiYoX3wvsojDAs05lKbdzdbJ64gHFnMz3BfGolpOQHLLFXUBYm6xZ7rTVyuQ1xs0s7A"
+    },
+    {
+      "id": "0UHcKZ5zrV4BP82i0vwRRw",
+      "iv": "wU0W2IhMtQCtZ-f6",
+      "payload": "1EwZ4OEfrCQ-svE2kuHjd9gY3aq2SUIWBbgXrlONQJK86sCAXwlYQch1t-DdIU_XENSF0mvQ7DwrafA3c14nQag"
+    },
+    {
+      "id": "ZLAuPF_VYtezWFExsKcOTA",
+      "iv": "vVrcySg1qXsWdsT8",
+      "payload": "eGUhPTFnfLlY2w2bvBTSqcy9M3oTyCSHMfj7vdNSmATEhcg3OLd4Jin02biXHdl2e3Ck5s71jW_Zj-1fzWCP8xBEJA"
+    }
+  ]
 }
